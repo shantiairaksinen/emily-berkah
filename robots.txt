@@ -1,0 +1,5 @@
+# All crawlers, including AI assistants, are welcome.
+User-agent: *
+Allow: /
+
+Sitemap: https://emilyberkah.levobox.com/sitemap.xml
